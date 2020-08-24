@@ -1,0 +1,23 @@
+.appbar_search{
+    display: flex;
+    width: 30vw;
+    align-items: center;
+    margin-right: 50px;
+    margin-left: 50px;
+    flex-grow: 1;
+}
+
+.search_input{
+    background-color: aliceblue;
+    width: 30vw;
+    margin-left: 10px ;
+}
+
+.toolbar_category{
+    justify-content: space-between;
+    display: flex;
+}
+
+/*.toolbar_category_item{
+
+}*/
